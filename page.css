@@ -1,0 +1,29 @@
+body{
+    background-color:rgba(15, 92, 86, 0.664);
+}
+.logout{
+    position: relative;
+    /* top: 16px; */
+   right: -1100px;
+   text-decoration: none;
+   font-weight: bold;
+}
+.logout:hover{
+    color: blue;
+    background-color: aliceblue;
+}
+img{
+    border-radius: 100px;
+}
+.home{
+    position: relative;
+    top: 16px;
+    left: 16px;
+}
+.button{
+    
+    background-color: rgb(8, 101, 138);
+    color: azure;
+    border-radius: 500px;
+    padding:10px;
+}

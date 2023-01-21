@@ -1,0 +1,10 @@
+body{
+    background-image:url(nitc.jpg);
+    background-size: cover;
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+}
+.form_part{
+    background:rgba(55, 110, 78, 0.9);
+    width:500px;
+}
